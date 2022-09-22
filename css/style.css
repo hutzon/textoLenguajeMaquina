@@ -52,6 +52,14 @@
     width: 500px;
 }
 
+#resultado_b{
+    font-size: 30px;
+    border-radius: 10px;
+    margin-top: 150px;
+    height: 200px;
+    width: 1200px;
+}
+
 #resultado_lm{
     border-radius: 10px;
     margin-top: 150px;
